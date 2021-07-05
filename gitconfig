@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = pierrebigjean@gmail.com
+	name = Pierre Grandjean pierrebigjean@gmail.com
